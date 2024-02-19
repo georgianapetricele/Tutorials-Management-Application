@@ -17,6 +17,7 @@ A user can create a `watch list` with the tutorials that he/she wants to watch. 
 - Layered Architecture
 - OOP Principles
 - Qt for GUI
+- CSV, HTML database storage
 
 # Demo
 ![image](https://github.com/georgianapetricele/Tutorials-Management-Application/assets/115110913/398d3661-c40a-4e3b-ba2b-2f2cb1c2bd6b)
