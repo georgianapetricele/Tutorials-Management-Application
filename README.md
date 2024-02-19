@@ -1,5 +1,5 @@
 # TutorialsMaster
-Application implemented in C++ for tutorials management\
+Application implemented in C++ for tutorials management
 # Admin mode
 - Add a new tutorial in the database
 - Delete a tutorial
