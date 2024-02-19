@@ -1,5 +1,6 @@
 # Functionalities
 **Admin mode:** The administrator can update the database, meaning: add a new tutorial, delete a tutorial and update the information of a tutorial. Each **Tutorial** has a `title`, a `presenter` (name of the presenter person), a `duration` (minutes and seconds), a number of `likes` and a `link` towards the online resource containing the tutorial. The administrator has also the option to see all the tutorials in the database.\
+\
 **User mode:** A user can create a watch list with the tutorials that he/she wants to watch. The application will allows the user to:
 - See the tutorials in the database having a given presenter (if the presenter name is empty, see all the tutorials), one by one. When the user chooses this option, the data of the first tutorial (title, presenter, duration, number of likes) is displayed and the tutorial is played in the browser.
 - If the user likes the tutorial, he/she can choose to add it to his/her tutorial watch list.
