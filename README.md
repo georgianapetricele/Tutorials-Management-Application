@@ -2,7 +2,8 @@
 - Add a new tutorial in the database
 - Delete a tutorial
 - Dpdate the information of a tutorial
-- See all the tutorials in the database\\
+- See all the tutorials in the database\
+  \
 Each **Tutorial** has a `title`, a `presenter` (name of the presenter person), a `duration` (minutes and seconds), a number of `likes` and a `link` towards the online resource containing the tutorial.
 
 # User mode
