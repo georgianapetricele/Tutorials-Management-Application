@@ -6,7 +6,7 @@
 - If the user likes the tutorial, he/she can choose to add it to his/her tutorial watch list.
 - If the tutorial seems uninteresting, the user can choose not to add it to the watch list and continue to the next. In this case, the information corresponding to the next tutorial is shown and the user is again offered the possibility to add it to the watch list. This can continue as long as the user wants, as when arriving to the end of the list of tutorials with the given presenter, if the user chooses next, the application will again show the first tutorial.
 - Delete a tutorial from the watch list, after the user watched the tutorial. When deleting a tutorial from the watch list, the user can also rate the tutorial (with a like), and in this case, the number of likes for the tutorial will be increased.
-- See the watch list.
+- See the watch list in the chosen format (`CSV` or `HTML`)
 
 # Demo
 ![image](https://github.com/georgianapetricele/Tutorials-Management-Application/assets/115110913/398d3661-c40a-4e3b-ba2b-2f2cb1c2bd6b)
